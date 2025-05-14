@@ -1,0 +1,11 @@
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\rtryt
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\appsettings.Development.json
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\appsettings.json
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\rtryt.dll
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\rtryt.deps.json
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\rtryt.runtimeconfig.json
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\rtryt.pdb
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\Microsoft.OpenApi.dll
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

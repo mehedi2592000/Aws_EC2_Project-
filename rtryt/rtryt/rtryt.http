@@ -1,0 +1,6 @@
+@rtryt_HostAddress = http://localhost:5029
+
+GET {{rtryt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

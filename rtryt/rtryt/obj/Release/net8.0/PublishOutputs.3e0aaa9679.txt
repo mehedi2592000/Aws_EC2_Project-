@@ -1,0 +1,11 @@
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\rtryt.exe
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\rtryt.dll
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\rtryt.deps.json
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\rtryt.runtimeconfig.json
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\rtryt.pdb
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - intellier.com\project\test-deploy\rtryt\rtryt\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
